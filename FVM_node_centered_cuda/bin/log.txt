@@ -1,0 +1,6 @@
+ ******matrix dimension: 6601******
+ ******start comparison******
+UMFPACK: 699229 μs.
+5.24923
+4.87176
+CUDA: 3.42109e+07 μs.
